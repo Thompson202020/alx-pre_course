@@ -1,1 +1,1 @@
-My first read me
+i am finally understanding git hu
